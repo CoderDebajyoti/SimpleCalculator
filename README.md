@@ -60,7 +60,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-Debajyoti Das - [Debajyoti Das](debajyoti.475@gmail.com)
+Debajyoti Das - [mail](debajyoti.475@gmail.com)
 
 ## Acknowledgments
 ```
